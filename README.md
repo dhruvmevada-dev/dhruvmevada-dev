@@ -246,6 +246,6 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 
 > *"Keep building. Keep learning. Keep shipping."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4287f5,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
