@@ -14,7 +14,7 @@
 <tr>
 <td valign="top" width="60%">
 
-### 👋 About Me
+### 🔵 About Me
 
 I'm a **Computer Engineer** (pursuing M.E.) building at the intersection of **Flutter**, **AI/LLMs**, and **game-inspired UX**. I like shipping full products end-to-end — mobile front-end, backend API, and an AI layer that actually does something useful.
 
@@ -43,7 +43,7 @@ I'm a **Computer Engineer** (pursuing M.E.) building at the intersection of **Fl
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🔵 Tech Stack
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ I'm a **Computer Engineer** (pursuing M.E.) building at the intersection of **Fl
 
 <br/>
 
-## 🌟 Featured Projects
+## 🔵 Featured Projects
 
 <table>
 <tr>
@@ -168,7 +168,7 @@ FastAPI pipeline chaining SCHP human parsing → FashionCLIP recommendations →
 
 <br/>
 
-## 💼 Experience
+## 🔵 Experience
 
 <table>
 <tr><td>
@@ -191,7 +191,7 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 </td></tr>
 </table>
 
-## 🎓 Education
+## 🔵 Education
 
 - **Master of Engineering (M.E.)** — Computer Engineering
 - **Bachelor of Technology (B.Tech.)** — Computer Engineering, Ahmedabad Institute of Technology — CGPA: **8.2**
@@ -199,7 +199,7 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 <br/>
 
 
-## GitHub Statistics
+## 🔵 GitHub Statistics
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 
 <br/>
 
-## 🌱 Currently Exploring
+## 🔵 Currently Exploring
 
 <div align="center">
 
@@ -229,7 +229,7 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 
 <br/>
 
-## 🤝 Connect With Me
+## 🔵 Connect With Me
 
 <div align="center">
 
