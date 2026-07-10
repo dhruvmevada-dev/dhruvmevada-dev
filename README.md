@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4287f5,100:16213e&height=220&section=header&text=Dhruv%20Mevada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Dev%20•%20AI%20Builder%20•%20Game%20Dev&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4287f5,100:16213e&height=270&section=header&text=Dhruv%20Mevada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Dev%20•%20AI%20Builder%20•%20Game%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Dhruv-Mevada-007">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI-powered+Flutter+apps;Solo+Leveling+System+%7C+Alarming+Silence;Chrome+Extensions+%2B+LLMs+%2B+RAG;Turning+anime+aesthetics+into+real+products" />
