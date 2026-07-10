@@ -193,8 +193,9 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 
 ## 🔵 Education
 
-- **Master of Engineering (M.E.)** — Computer Engineering
-- **Bachelor of Technology (B.Tech.)** — Computer Engineering, Ahmedabad Institute of Technology — CGPA: **8.2**
+**Master of Technology (M.Tech.)** in Information Technology *(Pursuing)*
+
+**Bachelor of Technology (B.Tech.)** in Computer Engineering from Ahmedabad Institute of Technology
 
 <br/>
 
@@ -203,12 +204,12 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Dhruv-Mevada-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dhruv-Mevada-007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Dhruv-Mevada-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dhruv-Mevada-007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=c9d1d9" width="49%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Dhruv-Mevada-007&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Dhruv-Mevada-007&theme=tokyonight&hide_border=true&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" width="60%"/>
 
 </div>
 
@@ -218,12 +219,12 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LLM%20Agents-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Chrome%20Extensions-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Advanced%20Flutter%20Architecture-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Knowledge%20Graphs-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM%20Agents-1E90FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-1E90FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1E90FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome%20Extensions-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter%20Architecture-1E90FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-1E90FF?style=for-the-badge&logo=neo4j&logoColor=white"/>
 
 </div>
 
